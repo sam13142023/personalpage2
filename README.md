@@ -34,5 +34,5 @@
 
 ### Star History
 
-![Star History Chart](https://star-history.com/#samwang-fengniaozhineng/myself&Date](https://star-history.com/#samwang-fengniaozhineng/myself&Date)
+[![Star History Chart](https://star-history.com/#samwang-fengniaozhineng/myself&Date)](https://star-history.com/#samwang-fengniaozhineng/myself&Date)
 
