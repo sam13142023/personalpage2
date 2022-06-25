@@ -34,5 +34,5 @@
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dmego/home.github.io&type=Date)](https://star-history.com/#dmego/home.github.io&Date)
+[![Star History Chart](https://star-history.com/#samwang-fengniaozhineng/myself&Date](https://star-history.com/#samwang-fengniaozhineng/myself&Date)
 
